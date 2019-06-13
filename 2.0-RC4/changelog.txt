@@ -1,0 +1,2 @@
+Fixed Iusses:
+- Download button is selected from ComboBox when click the item space area.

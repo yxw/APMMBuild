@@ -1,0 +1,7 @@
+Fixed Issues:
+- AP-2468
+- AP-2469
+- AP-2470
+
+UI Improvements:
+- Red dot indicator in miner list
