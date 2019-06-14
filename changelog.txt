@@ -1,6 +1,7 @@
 
 == v2.0-RC5
-Add busy indicator during auto mining on application startup.
+- Add busy indicator during auto mining on application startup.
+- Fixed pool earning URl not replacing {ADDR} to real wallet addr.
 
 
 == v2.0-RC4
