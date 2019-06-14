@@ -1,0 +1,21 @@
+
+== v2.0-RC5
+Add busy indicator during auto mining on application startup.
+
+
+== v2.0-RC4
+
+Fixed Iusses:
+- Download button is selected from ComboBox when click the item space area.
+
+
+== v2.0-RC3
+
+Fixed Issues:
+- AP-2468
+- AP-2469
+- AP-2470
+
+UI Improvements:
+- Red dot indicator in miner list
+
