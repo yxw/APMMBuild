@@ -1,3 +1,6 @@
+== v2.0-RC6
+- Miner auto restart timer 
+- Embedded dependency DLLs into assembly itself.
 
 == v2.0-RC5
 - Add busy indicator during auto mining on application startup.
