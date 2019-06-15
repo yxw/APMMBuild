@@ -1,5 +1,6 @@
 == v2.0-RC6
-- Miner auto restart timer 
+- Fixed some miner not able to start.
+- Add logging for auto restart mining 
 - Embedded dependency DLLs into assembly itself.
 
 == v2.0-RC5
