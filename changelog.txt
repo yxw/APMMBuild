@@ -1,31 +1,13 @@
-== v2.0-RC7
+== v2.0
+
 - Improved Pool settings UI
 - Fixed ZEC mining 
 - Enabled extra parameter to take precedent on default mining parameters.
-
-== v2.0-RC6
 - Fixed some miner not able to start.
 - Add logging for auto restart mining 
 - Embedded dependency DLLs into assembly itself.
-
-== v2.0-RC5
 - Add busy indicator during auto mining on application startup.
 - Fixed pool earning URl not replacing {ADDR} to real wallet addr.
-
-
-== v2.0-RC4
-
-Fixed Iusses:
 - Download button is selected from ComboBox when click the item space area.
-
-
-== v2.0-RC3
-
-Fixed Issues:
-- AP-2468
-- AP-2469
-- AP-2470
-
-UI Improvements:
 - Red dot indicator in miner list
 
