@@ -1,5 +1,11 @@
+== v2.0-RC7
+- Improved Pool settings UI
+- Fixed ZEC mining 
+- Enabled extra parameter to take precedent on default mining parameters.
+
 == v2.0-RC6
-- Miner auto restart timer 
+- Fixed some miner not able to start.
+- Add logging for auto restart mining 
 - Embedded dependency DLLs into assembly itself.
 
 == v2.0-RC5
