@@ -1,3 +1,6 @@
+== v2.0-RC8
+- Fixed a dev fee display issue when dev fee is below 1.0%
+
 == v2.0-RC7
 - Improved Pool settings UI
 - Fixed ZEC mining 
