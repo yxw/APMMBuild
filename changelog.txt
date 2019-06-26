@@ -1,3 +1,9 @@
+== v2.0-RC10
+- Add XMR miners (AMD / Nvidia) 
+- Add bminer (enabled but not included in binary)
+- Fixed an issue when first click on a new version won't start app
+- 
+
 == v2.0-RC8
 - Fixed a dev fee display issue when dev fee is below 1.0%
 
