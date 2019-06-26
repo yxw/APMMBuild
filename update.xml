@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.10.3</version>
-    <url>https://raw.githubusercontent.com/yxw/APMMUpdate/Debug/2.0/APMM-v2.0-RC10.zip</url>
+    <version>2.0.11.3</version>
+    <url>https://raw.githubusercontent.com/yxw/APMMUpdate/Debug/2.0/APMM-v2.0-RC11.zip</url>
     <changelog>https://raw.githubusercontent.com/yxw/APMMUpdate/Debug/changelog.txt</changelog>
     <mandatory>true</mandatory>
 </item>

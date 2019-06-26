@@ -1,4 +1,7 @@
 == v2.0-RC10
+-- Test and fixed for all current support coins
+
+== v2.0-RC10
 - Add XMR miners (AMD / Nvidia) 
 - Add bminer (enabled but not included in binary)
 - Fixed an issue when first click on a new version won't start app
