@@ -1,4 +1,7 @@
-== v2.0-RC10
+== v2.0-RC12
+-- Hot fixes on minor issues
+
+== v2.0-RC11
 -- Test and fixed for all current support coins
 
 == v2.0-RC10
