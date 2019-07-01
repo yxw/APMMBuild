@@ -1,6 +1,7 @@
 == v2.0-RC14
 -- Fixed Miners folder issue when start process
 -- Fixed coin scrollbar has empty space at the bottom
+-- Change version numbers to display 3 numbers (major.miner.build)
 
 == v2.0-RC13
 -- Change Miners folder to AppData/Roaming for better portability.
