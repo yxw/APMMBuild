@@ -1,3 +1,6 @@
+== v2.0.0-RC14
+-- Reset APMM version to 2.0.0 (use 3 version numbers)
+
 == v2.0-RC14
 -- Fixed Miners folder issue when start process
 -- Fixed coin scrollbar has empty space at the bottom
