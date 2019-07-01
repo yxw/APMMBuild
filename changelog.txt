@@ -1,4 +1,4 @@
-== v2.0
+== v2.0.0
 - Add new miners to support more coins
 - Improved Pool settings UI
 - Fixed ZEC mining 
