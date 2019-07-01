@@ -1,3 +1,7 @@
+
+== v2.0-RC13
+-- Change Miners folder to AppData/Roaming for better portability.
+
 == v2.0-RC12
 -- Hot fixes on minor issues
 
