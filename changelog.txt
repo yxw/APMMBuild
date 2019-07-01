@@ -1,3 +1,6 @@
+== v2.0-RC14
+-- Fixed Miners folder issue when start process
+-- Fixed coin scrollbar has empty space at the bottom
 
 == v2.0-RC13
 -- Change Miners folder to AppData/Roaming for better portability.
