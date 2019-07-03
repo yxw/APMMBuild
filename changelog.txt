@@ -1,13 +1,5 @@
-== v2.0.0
-- Add new miners to support more coins
-- Improved Pool settings UI
-- Fixed ZEC mining 
-- Enabled extra parameter to take precedent on default mining parameters.
-- Fixed some miner not able to start.
-- Add logging for auto restart mining 
-- Embedded dependency DLLs into assembly itself.
-- Add busy indicator during auto mining on application startup.
-- Fixed pool earning URl not replacing {ADDR} to real wallet addr.
-- Download button is selected from ComboBox when click the item space area.
-- Red dot indicator in miner list
+== v2.0.1
+
+-- Fixed an bug when run the application for the first time.
+-- 解决了一个用户初次运行程序时的bug
 
