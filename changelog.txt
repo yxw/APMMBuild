@@ -1,3 +1,9 @@
+== v2.0.1.15
+-- Fixed an bug when the coin list is incomplete when user run the app for the
+first time.
+-- Fixed a bug when "Download Miner" is selectable when click on the very edge
+area.
+
 == v2.0.0-RC14
 -- Reset APMM version to 2.0.0 (use 3 version numbers)
 
