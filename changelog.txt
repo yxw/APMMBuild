@@ -1,5 +1,13 @@
-== v2.0.1
+== v2.0.2
 
--- Fixed an bug when run the application for the first time.
--- 解决了一个用户初次运行程序时的bug
+-- 解决了Windows 7 下Administrator用户不能启动挖矿程序的问题
+-- Fixed a bug that can not start miner when running APMM under user Administrator in Windows 7.
 
+-- 新增 Claymore ETH 最新版本 v14.7
+-- Add latest version of Claymore ETH miner (v14.7)
+
+-- 新增 NBMiner 最新版本 v23.3
+-- Add latest version of NBMiner (v23.3)
+
+-- 新增N卡挖矿内核 Bminer v15.5.3, 支持更多挖矿币种
+-- Add Bminer v15.5.3, more coins are supported.
